@@ -64,7 +64,7 @@ export default function ElegantDailyDevotions() {
     <div className="min-h-screen flex flex-col bg-background dark:bg-background-dark text-foreground dark:text-foreground-dark transition-colors duration-200">
       <nav className="bg-primary text-primary-foreground p-4 shadow-md">
         <div className="container mx-auto flex justify-between items-center">
-          <h1 className="text-3xl font-bold text-gradient">Daily Devotions</h1>
+          <h1 className="text-3xl font-bold text-primary-foreground italic font-serif tracking-wide">The Daily Bread</h1>
           <div className="flex items-center space-x-4">
             <Button
               variant="ghost"
